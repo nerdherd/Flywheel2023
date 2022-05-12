@@ -10,3 +10,5 @@
 - MFG Files
 - ASM Files
 - PRG Files
+
+# Hardware subteams should not be branching. Pull from the main branch before adding documents to prevent merge conflicts.
